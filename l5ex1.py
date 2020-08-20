@@ -1,6 +1,6 @@
 def retangulo(l,a):
-    for j in range(a):
-        for i in range(l):
+    for _ in range(a):
+        for _ in range(l):
             print("#",end="")
         print()
 
